@@ -1,0 +1,3 @@
+my first todo
+study python
+study genai
