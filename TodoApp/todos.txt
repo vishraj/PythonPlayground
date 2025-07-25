@@ -1,3 +1,2 @@
-my first todo
-study python
-study genai
+clean my room.
+learn python
