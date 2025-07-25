@@ -1,2 +1,2 @@
 clean my room.
-learn python
+learn python and streamlit
