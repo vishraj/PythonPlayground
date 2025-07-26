@@ -30,7 +30,7 @@ for i, todo in enumerate(todos):
     if st.session_state["edit_index"] == i:
         # show the text input to edit the todo
         st.text_input(
-            label=f"Edit todo {i}",
+            label=f"Edit your todo task",
             value=todo.strip(),
             key=f"edit_todo_{i}",
             on_change=save_edited_todo,
